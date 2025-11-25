@@ -1,6 +1,6 @@
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom"; // Routing tools
-import Home from "@/components/home";
-import Login from "@/components/login";
+import Home from "@/pages/home";
+import Login from "@/pages/login";
 
 const App = () => {
   return (

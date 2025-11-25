@@ -19,13 +19,17 @@ vite-error.log*
 
 # Python / FastAPI
 __pycache__/
+.Python
 *.py[cod]
+*.pyc
 *.pyo
 *.pyd
 *.pdb
 *.egg-info/
 *.egg
 *.log
+
+
 
 # Virtual environments
 venv/
