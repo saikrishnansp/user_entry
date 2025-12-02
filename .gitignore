@@ -1,3 +1,5 @@
+backend&frontend.tldr
+
 # Node / Vite / React / Tailwind
 node_modules/
 dist/
@@ -28,8 +30,6 @@ __pycache__/
 *.egg-info/
 *.egg
 *.log
-
-
 
 # Virtual environments
 venv/
